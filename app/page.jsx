@@ -2,7 +2,7 @@
 import Photo from "@/components/Photo"
 
 import Stats from "../components/Stats"
-import Clima from "../components/clima"
+import Clima from "../components/Clima"
 export default function Home() {
   return (
     <section className="h-full">
