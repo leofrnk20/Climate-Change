@@ -4,9 +4,9 @@ const theclimaandhuman=()=>{
     <div className="flex flex-col xl:flex-row items-center justify-between xl:pt-8 xl:pb-24">
             <div className="text-center xl:text-left order-2 xl:order-none">
               <span className="text-×l">The Clima and Human</span>
-              <h1 className="h1 mb-6">How the climate <br/> <span className="text-accent">system works?</span> 
+              <h1 className="h1 mb-6">Mroe Comming Soon</span> 
               </h1>
-              <p className="max-w-[500px] mb-9 text-white/80">The climate system is an important basis for talking about co2 emissions</p>
+              <p className="max-w-[500px] mb-9 text-white/80"></p>
           
           </div>
          
