@@ -1,7 +1,7 @@
 
 import Photo from "@/components/photo"
 
-import Stats from "../components/stats"
+import Stats from "../components/Stats"
 import Clima from "../components/clima"
 export default function Home() {
   return (
