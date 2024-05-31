@@ -1,5 +1,5 @@
 
-import Photo from "@/components/photo"
+import Photo from "@/components/Photo"
 
 import Stats from "../components/Stats"
 import Clima from "../components/clima"
