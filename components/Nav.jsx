@@ -7,12 +7,12 @@ const links = [
         path:"/",
     },
     {
-        name:"climate",
-        path:"/climate",
+        name:"climate and people",
+        path:"/the-clima-and-human",
     },
     {
         name:"solutions",
-        path:"/solutions",
+        path:"/comming soon",
     },
 ];
 const Nav = ()=> {
