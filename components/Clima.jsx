@@ -17,7 +17,7 @@ const Clima = ()=> {
                 alt="" 
                 className="object-contain"/>   
         </div>
-        <div><p>During the day, the sun shines through the atmosphere. The earth's surface heats up due to the sunlight. At night, the earth's surface cools down and releases the heat back into the air. However, some of the heat is retained by greenhouse gases in the atmosphere. This ensures that the average temperature on earth is 14 degrees Celsius.</p>
+        <div><p>During the day, the sun shines through the atmosphere. The earths surface heats up due to the sunlight. At night, the earth's surface cools down and releases the heat back into the air. However, some of the heat is retained by greenhouse gases in the atmosphere. This ensures that the average temperature on earth is 14 degrees Celsius.</p>
           </div> <h2 className="h3">...the human</h2>
          </div> <br></br>
         <div className="w-full h-full relative grid grid-cols-1 md:grid-cols-2 gap-[60px]" >
