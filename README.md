@@ -2,7 +2,7 @@ This is the Climate Change Source on Github the webstie is on this Link:
 
 ``` https://climate-change-22ite6kkj-leos-projects-ce47911c.vercel.app/```
 
-![Homepage Image](assets/Bildschirmfoto 2024-06-06 um 14.44.00.png)
+![Homepage Image]([assets/Bildschirmfoto 2024-06-06 um 14.44.00.png](https://github.com/leofrnk20/Climate-Change/blob/main/Bildschirmfoto%202024-06-06%20um%2014.44.00.png?raw=true))
 
 
 The normal Framework registration -> 
